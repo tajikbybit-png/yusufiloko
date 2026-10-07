@@ -1,0 +1,6 @@
+{
+  "name": "YUSUF CODE — IDE-и мобилӣ барои C++",
+  "description": "Муҳити касбии барномасозӣ барои омӯзиш, навиштан ва иҷрои барномаҳои C++ дар дастгоҳҳои мобилӣ ва компютер.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
